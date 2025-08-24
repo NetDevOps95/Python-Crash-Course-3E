@@ -1,5 +1,5 @@
-first_name = " John "
-last_name = " Smith "
+first_name = " \nJohn "
+last_name = " Smith\t "
 full_name = f"{first_name} {last_name}"
 print(f"Hello, {full_name.title()}!")
 
